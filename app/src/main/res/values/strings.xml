@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HttpUrlConnection</string>
+    <string name="button_name">Download Json</string>
 </resources>
